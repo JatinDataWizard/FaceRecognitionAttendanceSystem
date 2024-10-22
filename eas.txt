@@ -1,0 +1,7 @@
+1. Employee data -> in images folder -> folder names with employee id's -> inside that multiple images
+2. Be sure to import libraries ( If it says no module but u still installed it, Use this python ver: i used python ver: base(Python 3.11.15))
+3. Be sure to istall certain modules on you computer terminal if its not showing up ( pip install .....)
+4. Make a folder name zidio -> images folder -> {employee id(change this)} -> your images (make sure to edit the path in 2nd cell or it wont work)
+5. Have two excel files named -> entry_attendance & exit_attendance in (zidio) folder
+6. In video capture it will automatically capture (wont run infinitely) and to exit the window be sure to run the next cell
+7. Be sure to upload only clear selfies (no other people) in {employee_id} folder or it will get stuck on face encoding problem itself.
